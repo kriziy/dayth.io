@@ -1,1 +1,1 @@
-content = "sdsdsd";
+var d = 'sdsdsd';
