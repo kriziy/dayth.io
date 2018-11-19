@@ -1,1 +1,1 @@
-var d = '/n Flush';
+var d = 'Flush';
